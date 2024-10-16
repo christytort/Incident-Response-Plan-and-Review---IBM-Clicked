@@ -1,4 +1,4 @@
-# Incident-Response-Plan-and-Review---IBM-Clicked
+# Incident Response Plan and Review---IBM-Clicked
 Incident Response Plan and Review--IBM-Clicked
 In this Mini Sprint, you'll step into the shoes of a Cyber Security professional responsible for handling and mitigating threats based on the NIST Incident Response Process Framework. When a critical incident alert is flagged, it's your job to methodically and efficiently work through each stage of the framework. The National Institute of Standards and Technology (NIST) has set forth guidelines that are globally recognized for their effectiveness in managing and mitigating cybersecurity incidents. During this sprint, not only will you familiarize yourself with the nuances of each stage but you'll also be tasked with presenting a comprehensive post-incident review to key stakeholders, ensuring they are informed, reassured, and aware of any necessary next steps.
 
